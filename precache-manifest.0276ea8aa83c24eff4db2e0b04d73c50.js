@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b71bd1bb32baf839de1489dd55f43488",
+    "revision": "494401807d4384e2a291fcb89271ffa3",
     "url": "/Menu-Vaca-Argentina/index.html"
   },
   {
