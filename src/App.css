@@ -1,0 +1,8 @@
+.container_page {
+  width: 100%;
+  height: auto;
+  background-image: url("./images/background-vaca-argentina.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,35 @@
+.logo_vaca {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 94px;
+  height: 94px;
+}
+
+.logo_vaca img {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .logo_vaca {
+    top: 20px;
+    left: 15px;
+    width: 70px;
+    height: 70px;
+  }
+}
+@media (max-width: 425px) {
+  .logo_vaca {
+    top: 10px;
+    left: 13px;
+    width: 40px;
+    height: 40px;
+  }
+}
+@media (max-width: 375px) {
+  .logo_vaca {
+    left: 10px;
+    width: 35px;
+    height: 35px;
+  }
+}
