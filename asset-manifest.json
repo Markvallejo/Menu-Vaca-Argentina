@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Menu-Vaca-Argentina/static/css/main.b34b1eb1.chunk.css",
+    "main.css": "/Menu-Vaca-Argentina/static/css/main.6e32326a.chunk.css",
     "main.js": "/Menu-Vaca-Argentina/static/js/main.4968655f.chunk.js",
     "main.js.map": "/Menu-Vaca-Argentina/static/js/main.4968655f.chunk.js.map",
     "runtime-main.js": "/Menu-Vaca-Argentina/static/js/runtime-main.603215d2.js",
@@ -9,10 +9,10 @@
     "static/js/2.6bfd5892.chunk.js": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js",
     "static/js/2.6bfd5892.chunk.js.map": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js.map",
     "index.html": "/Menu-Vaca-Argentina/index.html",
-    "precache-manifest.0276ea8aa83c24eff4db2e0b04d73c50.js": "/Menu-Vaca-Argentina/precache-manifest.0276ea8aa83c24eff4db2e0b04d73c50.js",
+    "precache-manifest.e56ca471b916611ce6ac0a71983bfd83.js": "/Menu-Vaca-Argentina/precache-manifest.e56ca471b916611ce6ac0a71983bfd83.js",
     "service-worker.js": "/Menu-Vaca-Argentina/service-worker.js",
     "static/css/2.50c32db6.chunk.css.map": "/Menu-Vaca-Argentina/static/css/2.50c32db6.chunk.css.map",
-    "static/css/main.b34b1eb1.chunk.css.map": "/Menu-Vaca-Argentina/static/css/main.b34b1eb1.chunk.css.map",
+    "static/css/main.6e32326a.chunk.css.map": "/Menu-Vaca-Argentina/static/css/main.6e32326a.chunk.css.map",
     "static/js/2.6bfd5892.chunk.js.LICENSE.txt": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js.LICENSE.txt",
     "static/media/LogoVaca.png": "/Menu-Vaca-Argentina/static/media/LogoVaca.2771917e.png",
     "static/media/menu.css": "/Menu-Vaca-Argentina/static/media/background-slider.317532e6.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.603215d2.js",
     "static/css/2.50c32db6.chunk.css",
     "static/js/2.6bfd5892.chunk.js",
-    "static/css/main.b34b1eb1.chunk.css",
+    "static/css/main.6e32326a.chunk.css",
     "static/js/main.4968655f.chunk.js"
   ]
 }

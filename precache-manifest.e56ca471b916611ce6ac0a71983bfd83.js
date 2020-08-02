@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "494401807d4384e2a291fcb89271ffa3",
+    "revision": "6ce049244f60b3e7be25f60feff69776",
     "url": "/Menu-Vaca-Argentina/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Menu-Vaca-Argentina/static/css/2.50c32db6.chunk.css"
   },
   {
-    "revision": "9eba17228aee2bdaaf60",
-    "url": "/Menu-Vaca-Argentina/static/css/main.b34b1eb1.chunk.css"
+    "revision": "994ae078b4e839b86763",
+    "url": "/Menu-Vaca-Argentina/static/css/main.6e32326a.chunk.css"
   },
   {
     "revision": "44d88b37228402806126",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9eba17228aee2bdaaf60",
+    "revision": "994ae078b4e839b86763",
     "url": "/Menu-Vaca-Argentina/static/js/main.4968655f.chunk.js"
   },
   {
