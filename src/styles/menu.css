@@ -42,7 +42,7 @@
 .slick-prev,
 .slick-next {
   position: fixed !important;
-  top: 150px;
+  top: 300px !important;
   /* top: 40px !important; */
   font-size: 40px !important;
   width: 40px !important;
@@ -160,7 +160,7 @@
   }
   .subtitle_menu {
     text-align: center;
-    font-size: 15px;
+    font-size: 13px;
   }
   .item_menu .title_food {
     font-size: 12px;
@@ -173,20 +173,20 @@
     display: none !important;
   }
   .slick-next {
-    right: 25px !important;
+    right: 20px !important;
   }
   .slick-prev {
     left: 20px !important;
   }
   .slick-prev,
   .slick-next {
-    font-size: 20px !important;
-    width: 20px !important;
-    height: 20px !important;
+    font-size: 30px !important;
+    width: 35px !important;
+    height: 35px !important;
   }
   .slick-prev:before,
   .slick-next:before {
-    font-size: 25px !important;
+    font-size: 30px !important;
   }
 }
 
@@ -198,10 +198,20 @@
     font-size: 7.5px;
   }
   .slick-next {
-    right: 20px !important;
+    right: 15px !important;
   }
   .slick-prev {
     left: 15px !important;
+  }
+  .slick-prev,
+  .slick-next {
+    font-size: 20px !important;
+    width: 35px !important;
+    height: 35px !important;
+  }
+  .slick-prev:before,
+  .slick-next:before {
+    font-size: 25px !important;
   }
   .subtitle_menu {
     text-align: center;
