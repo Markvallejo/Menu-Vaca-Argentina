@@ -8,6 +8,9 @@ const item_menu = props => {
         <h3 className="title_food">{props.titleItem}</h3>
         <p className="food_description">{props.description}</p>
       </div>
+      <div className="container_price">
+        <p>{props.price}</p>
+      </div>
     </div>
   );
 };
