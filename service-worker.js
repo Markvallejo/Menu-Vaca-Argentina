@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Menu-Vaca-Argentina/precache-manifest.e56ca471b916611ce6ac0a71983bfd83.js"
+  "/Menu-Vaca-Argentina/precache-manifest.0dc3d2aef21e45f3d6e47b14ff52317a.js"
 );
 
 self.addEventListener('message', (event) => {

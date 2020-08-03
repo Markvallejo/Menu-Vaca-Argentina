@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ce049244f60b3e7be25f60feff69776",
+    "revision": "51383f57ded13f02a1eb3826846c840d",
     "url": "/Menu-Vaca-Argentina/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Menu-Vaca-Argentina/static/css/2.50c32db6.chunk.css"
   },
   {
-    "revision": "994ae078b4e839b86763",
-    "url": "/Menu-Vaca-Argentina/static/css/main.6e32326a.chunk.css"
+    "revision": "ca02ef893a530216416c",
+    "url": "/Menu-Vaca-Argentina/static/css/main.799394d0.chunk.css"
   },
   {
     "revision": "44d88b37228402806126",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "994ae078b4e839b86763",
-    "url": "/Menu-Vaca-Argentina/static/js/main.4968655f.chunk.js"
+    "revision": "ca02ef893a530216416c",
+    "url": "/Menu-Vaca-Argentina/static/js/main.3adfa680.chunk.js"
   },
   {
     "revision": "9d7a25d0caa915cb9a2b",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "317532e60727a988922b6dcb59a34bbc",
     "url": "/Menu-Vaca-Argentina/static/media/background-slider.317532e6.png"
-  },
-  {
-    "revision": "fbaea8cb7eaa55eb3e6783f77cb1b23c",
-    "url": "/Menu-Vaca-Argentina/static/media/background-vaca-argentina.fbaea8cb.jpg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
