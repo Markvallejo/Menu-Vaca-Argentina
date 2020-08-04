@@ -1,10 +1,10 @@
 .container_menu {
-  width: 70%;
+  width: 75%;
   height: auto;
   padding-bottom: 100px;
   margin-bottom: 50px;
   background-image: url("../images//background-slider.png");
-  opacity: 0.8;
+  opacity: 0.85;
   position: relative;
   z-index: 1;
 }
@@ -35,10 +35,10 @@
 }
 
 .slick-next {
-  right: 150px !important;
+  right: 120px !important;
 }
 .slick-prev {
-  left: 150px !important;
+  left: 120px !important;
 }
 .slick-prev,
 .slick-next {
@@ -93,6 +93,7 @@
 .item_menu .food_description {
   font-size: 13px;
   color: #888888;
+  font-weight: 600;
   letter-spacing: 0;
   margin-block-start: 0;
 }
@@ -113,10 +114,10 @@ p {
 
 @media (max-width: 1204px) {
   .slick-next {
-    right: 80px !important;
+    right: 70px !important;
   }
   .slick-prev {
-    left: 80px !important;
+    left: 70px !important;
   }
 }
 
@@ -141,10 +142,10 @@ p {
   }
 
   .slick-next {
-    right: 70px !important;
+    right: 50px !important;
   }
   .slick-prev {
-    left: 70px !important;
+    left: 50px !important;
   }
   .slick-prev,
   .slick-next {
@@ -182,25 +183,21 @@ p {
     font-size: 12px;
     margin-bottom: 20px;
   }
-  .subtitle_menu {
-    text-align: center;
-    font-size: 13px;
-  }
   .item_menu .title_food {
     font-size: 12px;
     letter-spacing: 1.5px;
   }
   .item_menu .food_description {
-    font-size: 8px;
+    font-size: 8.5px;
   }
   .slick-slider .slick-dots {
     display: none !important;
   }
   .slick-next {
-    right: 20px !important;
+    right: 16px !important;
   }
   .slick-prev {
-    left: 20px !important;
+    left: 16px !important;
   }
   .slick-prev,
   .slick-next {
@@ -225,10 +222,10 @@ p {
     font-size: 9px;
   }
   .slick-next {
-    right: 15px !important;
+    right: 10px !important;
   }
   .slick-prev {
-    left: 15px !important;
+    left: 10px !important;
   }
   .slick-prev,
   .slick-next {

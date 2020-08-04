@@ -1,12 +1,10 @@
 .container_page {
   width: 100%;
   height: 100%;
-  /* background-image: url("./images/background-vaca-argentina.jpg"); */
-  background-image: url("./images/LogoVaca.png");
+  background: url("./images/LogoVaca.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
-  overflow: scroll;
+  background-attachment: fixed !important;
   display: flex;
   align-items: center;
   justify-content: center;
