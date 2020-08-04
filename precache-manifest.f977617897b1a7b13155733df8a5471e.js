@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51383f57ded13f02a1eb3826846c840d",
+    "revision": "f8de83632955da6da33220a0e4825ec6",
     "url": "/Menu-Vaca-Argentina/index.html"
   },
   {
-    "revision": "44d88b37228402806126",
+    "revision": "bfab395c60f2832ae3c4",
     "url": "/Menu-Vaca-Argentina/static/css/2.50c32db6.chunk.css"
   },
   {
-    "revision": "ca02ef893a530216416c",
-    "url": "/Menu-Vaca-Argentina/static/css/main.799394d0.chunk.css"
+    "revision": "5559fff248edb950f74e",
+    "url": "/Menu-Vaca-Argentina/static/css/main.f678577c.chunk.css"
   },
   {
-    "revision": "44d88b37228402806126",
-    "url": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js"
+    "revision": "bfab395c60f2832ae3c4",
+    "url": "/Menu-Vaca-Argentina/static/js/2.e587e17b.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js.LICENSE.txt"
+    "url": "/Menu-Vaca-Argentina/static/js/2.e587e17b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca02ef893a530216416c",
-    "url": "/Menu-Vaca-Argentina/static/js/main.3adfa680.chunk.js"
+    "revision": "5559fff248edb950f74e",
+    "url": "/Menu-Vaca-Argentina/static/js/main.30a05936.chunk.js"
   },
   {
     "revision": "9d7a25d0caa915cb9a2b",

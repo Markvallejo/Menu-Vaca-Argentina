@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Menu-Vaca-Argentina/static/css/main.799394d0.chunk.css",
-    "main.js": "/Menu-Vaca-Argentina/static/js/main.3adfa680.chunk.js",
-    "main.js.map": "/Menu-Vaca-Argentina/static/js/main.3adfa680.chunk.js.map",
+    "main.css": "/Menu-Vaca-Argentina/static/css/main.f678577c.chunk.css",
+    "main.js": "/Menu-Vaca-Argentina/static/js/main.30a05936.chunk.js",
+    "main.js.map": "/Menu-Vaca-Argentina/static/js/main.30a05936.chunk.js.map",
     "runtime-main.js": "/Menu-Vaca-Argentina/static/js/runtime-main.603215d2.js",
     "runtime-main.js.map": "/Menu-Vaca-Argentina/static/js/runtime-main.603215d2.js.map",
     "static/css/2.50c32db6.chunk.css": "/Menu-Vaca-Argentina/static/css/2.50c32db6.chunk.css",
-    "static/js/2.6bfd5892.chunk.js": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js",
-    "static/js/2.6bfd5892.chunk.js.map": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js.map",
+    "static/js/2.e587e17b.chunk.js": "/Menu-Vaca-Argentina/static/js/2.e587e17b.chunk.js",
+    "static/js/2.e587e17b.chunk.js.map": "/Menu-Vaca-Argentina/static/js/2.e587e17b.chunk.js.map",
     "index.html": "/Menu-Vaca-Argentina/index.html",
-    "precache-manifest.0dc3d2aef21e45f3d6e47b14ff52317a.js": "/Menu-Vaca-Argentina/precache-manifest.0dc3d2aef21e45f3d6e47b14ff52317a.js",
+    "precache-manifest.f977617897b1a7b13155733df8a5471e.js": "/Menu-Vaca-Argentina/precache-manifest.f977617897b1a7b13155733df8a5471e.js",
     "service-worker.js": "/Menu-Vaca-Argentina/service-worker.js",
     "static/css/2.50c32db6.chunk.css.map": "/Menu-Vaca-Argentina/static/css/2.50c32db6.chunk.css.map",
-    "static/css/main.799394d0.chunk.css.map": "/Menu-Vaca-Argentina/static/css/main.799394d0.chunk.css.map",
-    "static/js/2.6bfd5892.chunk.js.LICENSE.txt": "/Menu-Vaca-Argentina/static/js/2.6bfd5892.chunk.js.LICENSE.txt",
+    "static/css/main.f678577c.chunk.css.map": "/Menu-Vaca-Argentina/static/css/main.f678577c.chunk.css.map",
+    "static/js/2.e587e17b.chunk.js.LICENSE.txt": "/Menu-Vaca-Argentina/static/js/2.e587e17b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Menu-Vaca-Argentina/static/media/LogoVaca.2771917e.png",
     "static/media/menu.css": "/Menu-Vaca-Argentina/static/media/background-slider.317532e6.png",
     "static/media/slick-theme.css": "/Menu-Vaca-Argentina/static/media/slick.f97e3bbf.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.603215d2.js",
     "static/css/2.50c32db6.chunk.css",
-    "static/js/2.6bfd5892.chunk.js",
-    "static/css/main.799394d0.chunk.css",
-    "static/js/main.3adfa680.chunk.js"
+    "static/js/2.e587e17b.chunk.js",
+    "static/css/main.f678577c.chunk.css",
+    "static/js/main.30a05936.chunk.js"
   ]
 }
